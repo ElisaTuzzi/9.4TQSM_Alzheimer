@@ -1,0 +1,37 @@
+<RemoveOversampling> 
+  true
+<FirstFFT> true
+<SecondFFT> true
+<ThirdFFT> 
+true
+<zf1> 0
+<zf2> 0
+<zf3> 0
+<Abs> false
+<CombineCoils> false
+<CombineCoilsAlgo> 0
+<Filter1>
+  0
+<Filter1Width>
+    0.68
+<Application> Image
+<SNRAlgo> 1
+<SNRReplica> 128
+<GRAPPAFactor> 1
+<GRAPPA2Factor> 1
+<GRAPPAAlgo> 3D  
+<ReadGRAPPAPars>
+false
+<WriteGRAPPAPars>
+false
+<GRAPPANLines>
+224
+<GRAPPANPartitions>
+160
+<CorrectWeighting>
+true
+<CorrectPhase>
+true
+<StoreName>
+Unfiltered_
+

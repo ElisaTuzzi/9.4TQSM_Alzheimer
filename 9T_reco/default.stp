@@ -1,0 +1,23 @@
+<RemoveOversampling> 
+  true
+<Filter> 0
+<FilterWidth> 1.2
+<FirstFFT> true
+<SecondFFT> true
+<ThirdFFT> true
+<zf1> 0
+<zf2> 0
+<zf3> 0
+<CorrectPhase> false
+<CorrectWeighting> true
+<Abs> true
+<CombineCoils> true
+<CombineCoilsAlgo> 0
+<Application> Image
+<SNRAlgo> 1
+<SNRReplica> 128
+<SNRStoreExternal> false
+<GRAPPAFactor> 1
+<GRAPPA2Factor> 1
+<GRAPPAAlgo> 3D
+  
